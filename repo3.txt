@@ -1,2 +1,6 @@
 Fichero repo3
+<<<<<<< HEAD
 modifico repo3.txt desde local
+=======
+nueva linea 
+>>>>>>> 25d37528fba13ceaab479d4f69dec96080e8c9f7
